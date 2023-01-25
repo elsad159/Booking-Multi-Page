@@ -1,0 +1,218 @@
+section{
+    background-image: url(/shekilll.webp);
+    height: 450px;
+}
+nav,header{
+    background-color: #003580;
+    height: 65px;
+}
+.absoluteeee{
+    position: absolute;
+    top: 490px;
+    left: 25px;
+    width: 100%;
+}
+.shadowed{
+    text-shadow: 2px 2px 8px grey;
+}
+.flag{
+    width: 20px;
+    height: 20px;
+    border-radius: 45px;
+    display: flex;
+    align-items: center;
+    margin-top: 9px;
+}
+.bu:hover{
+    background-color: rgb(181, 168, 255) !important;
+}
+.uz:hover{
+    background-color: lightslategray;
+}
+.bu, .uz{
+    border-radius: 2px;
+}
+.mu:hover{
+    background-color: lightslategray;
+    border-radius: 2px;
+}
+.custom{
+    border-radius: 25px;
+    background-color: #1a4a8d;
+}
+.xoshh:hover{
+    background-color: #1a4a8d;
+}
+.hoverler:hover{
+    border-radius: 25px;
+    background-color: #1a4a8d;
+}
+.iconlarfont{
+    font-size: 14px !important;
+}
+.hoverli:hover{
+    background-color: #00487a !important;
+}
+.fa-bed{
+    top: 13px !important;
+    padding-left: 5px !important;
+}
+.custime{
+    border: 4px solid #febb02 !important;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.icon{
+    color: #bdbdbd !important;
+}
+.icon-2{
+    top: 15px !important;
+}
+.xett{
+    height: 6px;
+    background-color: #febb02;
+    width: 76.1px !important;
+    rotate: 90deg;
+    left: 245px;
+}
+.xett2{
+    height: 6px;
+    background-color: #febb02;
+    width: 76.1px !important;
+    rotate: 90deg;
+    left: 527px;
+}
+.xett3{
+    height: 6px;
+    background-color: #febb02;
+    width: 76.1px !important;
+    rotate: 90deg;
+    right: 244px;
+}
+.sall{
+    margin-top: 500px;
+}
+.margin{
+    margin-top: 90px;
+    margin-left: 120px;
+}
+.fa-circle-info{
+    background-color: #fff0e0 !important;
+    color: #923e01 !important;
+}
+.bgshekil{
+    background-image: url(/banner.png);
+    border-radius: 10px;
+    height: 170px;
+    background-size: cover;
+    width: 100%;
+}
+.balca{
+font-size: 20px !important;
+}
+.balaca{
+font-size: 16px !important;
+}
+.cusbutton{
+    background-color: #0071c2;
+    width: 200px;
+    padding: 8px 15px;
+    font-size: 13px;
+    color: white;
+}
+.cusbutton:hover{
+    background-color: #00487a !important;
+    color: white;
+}
+.yazibalca{
+    font-size: 16px;
+}
+.yazilapbalca{
+    font-size: 11px;
+}
+.tblisi{
+    background-image: url(/tblisi.jpg);
+    background-size: cover;
+    height: 290px;
+    width: 560px;
+    margin-right: 20px;
+    border-radius: 3px;
+}
+.istabul{
+    height: 290px;
+    width: 560px;
+    background-size: cover;
+    background-image: url(/istnbul.jpg);
+    border-radius: 3px;
+}
+.baku{
+    height: 290px;
+    width: 370px;
+    border-radius: 3px;
+    background-size: cover;
+    background-image: url(/baku.webp);
+}
+.praga{
+    border-radius: 3px;
+    height: 290px;
+    width: 370px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-size: cover;
+    background-image: url(/praga.jpg);
+}
+.riani{
+    height: 290px;
+    border-radius: 3px;
+    width: 370px;
+    background-size: cover;
+    background-image: url(/riani.jpg);
+}
+.sugar{
+    font-size: 17px !important;
+}
+.sugar2{
+    font-size: 14px !important;
+}
+.bgmap{
+    margin-top: 55px;
+    border: 1px solid #e7e7e7;
+    background-image: url(/footermap.png);
+    background-size: cover;
+    border-radius: 3px;
+    padding: 25px 9px;
+}
+.cuslinkkk{
+    border: 1px solid blue;
+    margin-right: 8px;
+    padding: 5px 15px;
+    border-radius: 3px;
+}
+.xetttttt{
+    width: 100%;
+    height: 0.5px;
+    background-color: #fff;
+    z-index: 1;
+    margin-top: 15px;
+}
+.fontvvv{
+    font-size: 13px;
+}
+.copyright{
+    font-size: 12px;
+    margin-top: 25px;
+}
+.brown:hover{
+    color: #923e01 !important;
+    transition: 0.35s;
+    cursor: pointer;
+}
+.regist:hover{
+    background-color: #335d9a;
+
+}
+.yaranir:hover{
+    transition: 0.35s;
+    border: 1px solid #febb02;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}

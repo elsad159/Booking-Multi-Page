@@ -1,0 +1,162 @@
+.navbar,header{
+    background-color: #003580;
+    height: 65px;
+}
+.flag{
+    width: 20px;
+    height: 20px;
+    border-radius: 45px;
+    display: flex;
+    align-items: center;
+    margin-top: 9px;
+}
+.custom{
+    border-radius: 25px;
+    background-color: #1a4a8d;
+}
+.hoverler:hover{
+    border-radius: 25px;
+    background-color: #1a4a8d;
+}
+.bu:hover{
+    background-color: rgb(181, 168, 255) !important;
+}
+.uz:hover{
+    background-color: lightslategray;
+}
+.bu, .uz{
+    border-radius: 2px;
+}
+.mu:hover{
+    background-color: lightslategray;
+    border-radius: 2px;
+}
+.xoshh:hover{
+    background-color: #1a4a8d;
+}
+.iconlarfont{
+    font-size: 14px !important;
+}
+.inputtt{
+    padding: 3px 24px;
+    border: none;
+    border-radius: 2px;
+}
+.boyuyyazi{
+    font-size: 18px;
+    
+}
+.balacayazilar{
+    font-size: 13px;
+}
+.inputt{
+    padding: 3px 39px;
+    border: none;
+}
+.custombtn{
+    padding: 12px 91px;
+    margin-top: 25px;
+}
+.cliptext{
+    font-size: 14px !important;
+}
+.cliple{
+    background-color: #ebf3ff !important;
+    border: none !important;
+    padding-top: 15px;
+    padding-left: 7px;
+    padding-bottom: 5px;
+}
+.clipleddy{
+    background-color: #ebf3ff !important;
+    border: none !important;
+    padding-top: 15px !important;
+    padding-left: 30px !important;
+    padding-bottom: 11px !important;
+    font-size: 12px !important;
+}
+.apart{
+    font-size: 14px !important;
+    width: 20%;
+    background-color: green;
+    text-align: center;
+    height: 22px;
+    color: #ebf3ff;
+    font-weight: 100;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.variant{
+    cursor: pointer;
+    font-size: 13px !important;
+    width: 40%;
+    background-color: #f2f2f2;
+    text-align: center;
+    height: 22px;
+    color: black;
+    font-weight: 100;
+    border-radius: 3px;
+
+}
+.yarananbg:hover{
+    background-color: lightslategray;
+}
+.karta1{
+    background-image: url(/oldtblisi/karta1.jpg);
+    background-size: cover;
+    width: 140%;
+    height: 190px;
+}
+.karta2{
+    background-image: url(/oldtblisi/karta2.jpg);
+    background-size: cover;
+    width: 140%;
+    height: 190px;
+}
+.karta3{
+    background-image: url(/oldtblisi/karta3.jpg);
+    background-size: cover;
+    width: 110%;
+    margin-left: 80px;
+    margin-top: 16px;
+    height: 395px;
+}
+.kartlar{
+    width: 132px;
+    height: 120px;
+}
+.uzunnn{
+    width: 119%;
+}
+.appartam{
+    font-size: 15px !important;
+}
+.shirina{
+    width: 15%;
+    margin: 0 auto;
+    border: 1px solid lightslategrey;
+    padding-top: 9px;
+}
+.shshsh{
+    width: 23%;
+    border: 1px solid lightslategrey;
+    margin: 0 auto;
+    padding-top: 9px;
+    padding: 7px 10px;
+}
+.appartammm{
+    font-size: 15px !important;
+    padding-top: 10px;
+}
+.backreng{
+    background-color: #ebf3ff !important;
+}
+.bron{
+    border: none;
+    background: #0071c2;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
